@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/home.css';
+import '../styles/home.css'
 import Image1 from '../assets/img/why-us-bg.jpg';
 import {Col, Row} from "react-bootstrap";
 import iphone from '../assets/img/iphone.png';
